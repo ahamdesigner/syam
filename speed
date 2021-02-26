@@ -1,2 +1,2 @@
-if read true
-flash style 
+if read flash style
+light speed !
