@@ -1,0 +1,3 @@
+if read true and error is false
+write into ahamdesigner
+else check read
