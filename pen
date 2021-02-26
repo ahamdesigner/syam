@@ -1,2 +1,4 @@
 if read true
+if writer is safe
 pen can help writer
+
